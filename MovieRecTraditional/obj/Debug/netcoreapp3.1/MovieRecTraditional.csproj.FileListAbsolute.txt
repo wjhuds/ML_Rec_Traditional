@@ -1,0 +1,16 @@
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\MovieRecTraditional.exe
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\MovieRecTraditional.deps.json
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\MovieRecTraditional.runtimeconfig.json
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\MovieRecTraditional.runtimeconfig.dev.json
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\MovieRecTraditional.dll
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\MovieRecTraditional.pdb
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.csproj.AssemblyReference.cache
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.AssemblyInfoInputs.cache
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.AssemblyInfo.cs
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.csproj.CoreCompileInputs.cache
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.dll
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.pdb
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\obj\Debug\netcoreapp3.1\MovieRecTraditional.genruntimeconfig.cache
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\movies.csv
+C:\Users\waylo\source\repos\MovieRecTraditional\MovieRecTraditional\bin\Debug\netcoreapp3.1\ratings.csv

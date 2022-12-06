@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\waylo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\waylo\\.nuget\\packages"
+    ]
+  }
+}
